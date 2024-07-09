@@ -1,4 +1,4 @@
-
+### 태도를 개발자의 가장 중요한 덕목으로 생각하는 개발자 홍준범입니다.
 # FINDER REACT 프로젝트 발표 + 시연 영상
 ![image](https://github.com/yousangjun/MiniProject05_FINDER/assets/121448554/98a09fd3-9397-4c57-bae6-df7a352ac844)
 
